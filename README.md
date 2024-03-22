@@ -1,9 +1,9 @@
 <h1> Olá, eu sou o Rômulo!</h1>
 
-<a href="https://github.com/romulolpaula/github-readme-stats">
+<a href="https://github.com/romulolpaula">
   <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api?username=romulolpaula&show_icons=true&theme=date_night&locale=pt-br&hide=commits" />
 </a>
-<a href="https://github.com/romulolpaula/github-readme-stats">
+<a href="https://github.com/romulolpaula">
   <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulolpaula&theme=date_night&locale=pt-br" />
 </a>
 
