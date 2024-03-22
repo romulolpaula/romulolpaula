@@ -1,10 +1,10 @@
 <h1> Olá, eu sou o Rômulo!</h1>
 
 <a href="https://github.com/romulolpaula">
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=romulolpaula&show_icons=true&theme=date_night&locale=pt-br&hide=commits" />
+  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=romulolpaula&show_icons=true&theme=date_night&locale=pt-br&hide=commits" />
 </a>
 <a href="https://github.com/romulolpaula">
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulolpaula&theme=date_night&locale=pt-br" />
+  <img align="center"height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulolpaula&theme=date_night&locale=pt-br" />
 </a>
 
 ##
